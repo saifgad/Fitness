@@ -502,7 +502,7 @@ table td {
 }
 
 table:hover {
-    scale: 1.2;
+    scale: 1;
 }
 
 table th:hover {
@@ -807,6 +807,8 @@ table td:hover {
 /* Start Arm */
 .arm{
     margin-left: 27px;
+    text-align: center;
+
 
 }
 .bi{
@@ -855,6 +857,8 @@ table td:hover {
 /* start Back */
 .ba{
     margin-left: 27px;
+    text-align: center;
+
 
 }
 .lat{
@@ -904,6 +908,7 @@ table td:hover {
 /* start chest */
 .chest{
     margin-left: 27px;
+    text-align: center;
 
 }
 .che{
@@ -954,6 +959,8 @@ table td:hover {
     align-items: center;
     margin-bottom: 100px;
     margin-top: 100px;
+    text-align: center;
+
 
 }
 .sh{
@@ -982,6 +989,8 @@ table td:hover {
 /* start LEG */
 .LEG{
     margin-left: 27px;
+    text-align: center;
+
 
 }
 .leg{
